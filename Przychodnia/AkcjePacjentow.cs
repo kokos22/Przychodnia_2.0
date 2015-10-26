@@ -8,7 +8,7 @@ using MySql.Data;
 
 namespace Przychodnia
 {
-// moze dziala a moze nie
+// moze dziala a moze nie chuj chuj
     static class AkcjePacjentow
     {
         static AkcjePacjentow()
